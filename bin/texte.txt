@@ -1,0 +1,6 @@
+Bonjour, je suis Léonard Cottin.
+
+
+Je suis un texte dont le rôle est de tester si le nombre de mots affiché lors de l'execution du programme est le même que le nombre de mot que je contiens.
+
+Bonne journée ! 
